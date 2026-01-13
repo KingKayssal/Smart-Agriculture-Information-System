@@ -1,0 +1,12 @@
+{
+  "name": "Smart Agriculture Information System",
+  "short_name": "SAIS",
+  "description": "Empowering farmers through technology, cloud, and connectivity.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0fdf4",
+  "theme_color": "#16a34a",
+  "icons": [
+    { "src": "/icons/icon.svg", "type": "image/svg+xml", "sizes": "512x512", "purpose": "any" }
+  ]
+}

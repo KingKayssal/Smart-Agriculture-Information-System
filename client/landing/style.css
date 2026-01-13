@@ -1,0 +1,8 @@
+/* Landing page styles */
+
+/* Ensure hero image fills and keeps aspect */
+.landing-hero {
+  min-height: 56vh;
+  background-size: cover;
+  background-position: center;
+}
