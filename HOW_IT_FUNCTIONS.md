@@ -1,5 +1,7 @@
 # Smart Agriculture Information System (SAIS) — How It Functions
 
+link of the video on google drive :https://drive.google.com/drive/folders/1kQplXLuyWUvhV-zqnPuDGnjVOViAqAUo?usp=drive_link 
+
 ## Project Overview
 
 Smart Agriculture Information System (SAIS) is a cloud-based web application that connects farmers, agricultural experts, buyers, and administrators over Wide Area Network (WAN) infrastructure. SAIS enables data-driven agriculture by digitizing farm operations, facilitating expert advisory workflows, and powering a marketplace that bridges supply and demand across geographically distributed communities.
