@@ -1,6 +1,6 @@
-# Smart Agriculture Information System (SAIS) — How It Functions
+# Smart Agriculture Information System (SAIS)  How It Functions
 
-link of the video on google drive :https://drive.google.com/drive/folders/1kQplXLuyWUvhV-zqnPuDGnjVOViAqAUo?usp=drive_link 
+link of the video on google drive(ict email) :https://drive.google.com/drive/folders/1kQplXLuyWUvhV-zqnPuDGnjVOViAqAUo?usp=drive_link 
 
 ## Project Overview
 
